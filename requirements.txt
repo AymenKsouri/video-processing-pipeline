@@ -1,0 +1,9 @@
+opencv-python
+moviepy
+ultralytics
+openai-whisper
+torch
+torchvision
+torchaudio
+pandas
+numpy
